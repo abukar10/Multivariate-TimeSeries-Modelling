@@ -1,8 +1,6 @@
 # Multivariate-TimeSeries-Modelling
 Lightweight and Data-Efficient MultivariateTime Series Forecasting using Residual-Stacked Gaussian (RS-GLinear) Architecture
 
-This repository is and extended version and build on the official Pytorch implementation of GLinear Predictor: ["Paper Link".](https://arxiv.org/pdf/2501.01087)
-
 ## Description
 
 we adopt the original GLinear architecture and introduce—Residual-Stacked GLinear Model (Depth =4), which is an enhanced version of the original GLinear architecture that integrates more depth in the neural network via stacked linear blocks (figure 6-b). Our proposed enhanced GLinear architecture retains the original Reversible Instance  
@@ -18,3 +16,5 @@ Time series forecasting remains a challenging yet critical research area across 
 This code is built on the code base of LTSF-Linear Predictors (**GLinear, **NLinear**, **DLinear**). 
 We would like to thank the following GitHub repository for their valuable code bases, datasets and detailed descriptions:
 https://github.com/t-rizvi/GLinear.git
+
+This repository is and extended version and build on the official Pytorch implementation of GLinear Predictor: "Paper Link".
