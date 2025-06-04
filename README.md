@@ -21,5 +21,6 @@ Time series forecasting remains a challenging yet critical research area across 
 This code is built on the code base of LTSF-Linear Predictors (**GLinear, **NLinear**, **DLinear**). 
 We would like to thank the following GitHub repository for their valuable code bases, datasets and detailed descriptions:
 https://github.com/t-rizvi/GLinear.git
+https://github.com/cure-lab/LTSF-Linear
 
 This repository is and extended version and build on the official Pytorch implementation of GLinear Predictor: "Paper Link".
