@@ -11,6 +11,7 @@ Time series forecasting remains a challenging yet critical research area across 
 
 ![image](https://github.com/user-attachments/assets/ae8fb5f8-d264-4cea-b1b6-57d47d760559)
 
+![image](https://github.com/user-attachments/assets/8375cd54-f892-4b5a-9984-37396f747601)
 
 
 
