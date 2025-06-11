@@ -29,3 +29,5 @@ https://github.com/cure-lab/LTSF-Linear
 
 This repository is and extended version and build on the official Pytorch implementation of GLinear Predictor: 
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2501.01087
+
+Credit to the following source: https://github.com/plumprc/RTSF/blob/main/models/RLinear.py
